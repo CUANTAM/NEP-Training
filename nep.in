@@ -1,0 +1,13 @@
+version     4
+type        5 Hf O Si W  Zr
+cutoff      5 5        # 
+n_max       12 6        # 
+basis_size  12 12      # 
+l_max       4       # 
+neuron      40         # 
+lambda_1    0.05        # default 0.05
+lambda_2    0.05        # default 0.05
+population  50         # 
+batch       1000       # 
+generation  200000     # 
+
